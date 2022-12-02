@@ -51,7 +51,7 @@ p {
 
 
 @media screen and (min-width:1024px) {
-    body {
+ body {
         font-size: 1.8rem;
     }
 
@@ -374,4 +374,22 @@ color: #fff;
 .badge--small {
    font-size: 1.6rem;
    padding: 0.5rem 1.5rem;
+}
+
+/*Media*/
+
+.media {
+   display: flex;
+}
+
+.media__title {
+   margin-top: 0;
+}
+
+.media__body {
+   margin: 0 2rem;
+}
+
+.media__image {
+   margin-top: 1rem;
 }
