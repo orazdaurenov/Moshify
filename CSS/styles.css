@@ -431,13 +431,15 @@ position: relative;
 bottom: 10px;
 }
 
-@media screen and (min-width: 1024px;) {
+@media screen and (min-width: 1024px) {
 
-   .quote {
-      font-size: 2 rem;
+.quote {
+      font-size: 2rem;
    }
 
-   .quote__author
+.quote__author {
+      font-size: 2.4rem;
+   }
 }
 
 .quote__organization {
