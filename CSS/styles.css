@@ -343,6 +343,12 @@ color: #fff;
 
 /*Plans*/
 
+.plan {
+width: 100px;
+display: flex;
+justify-content: space-between;
+}
+
 .plan__name {
    color: #fff;
    margin: 0;
@@ -762,3 +768,6 @@ padding-top: 0;
    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
 }   
  }
+
+ /*Plans Block*/
+
