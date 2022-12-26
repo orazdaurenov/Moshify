@@ -633,6 +633,7 @@ grid-template-columns: 1fr auto;
 
  .block__header {
    text-align: center;
+   margin-bottom: 4rem;
  }
 
  .block__heading {
